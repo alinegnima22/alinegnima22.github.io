@@ -1,0 +1,73 @@
+.maman{
+    text-align: center;
+}
+.titan{
+    max-width: 50%;
+    height: auto;
+    margin-right: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.baki{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 5vh;
+  
+
+}
+.hanma{
+    flex: 1;
+    margin-right: 20px;
+}
+.raisin{
+   
+    width: 50%;
+    height: 5px;
+    border: 0px solid; 
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 30%;
+
+}
+
+.videosection{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+.videobackground{
+    max-width: 500px;
+    height: auto;
+    margin-right: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
+.content{
+    position: left;
+    z-index: 1;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: white;
+    background-image: url(passport.jpg);
+}
+.aline{
+    flex: 1;
+    margin-right: 20px;
+}
+.papa{
+    text-align: center;
+}
+.GNIMA{
+    padding: 10px;
+}
+.AKOUEMO{
+    text-align: center;
+    font-size: 60px;
+}
